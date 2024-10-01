@@ -10,7 +10,7 @@ In a recent project, I had the opportunity to plan, set up, and build a similar 
 We implemented the following architecture:
 
 \
-![Data Platform](/public/images/data-platform.png)
+![Data Platform](/public/images/data-platform.svg)
 
 Deploying these components on GCP and GKE is straightforward but it's still a lengthy process. I will go into full details of the deployment for some of these components over time.
 
