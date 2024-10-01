@@ -96,6 +96,10 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+li a.sidebar-nav-item {
+  font-size: 15px;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -169,6 +173,14 @@ a.sidebar-nav-item:focus {
  */
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
+
+.theme-base-3f .sidebar {
+  background-color: #01303f;
+}
+.theme-base-3f .content a,
+.theme-base-3f .related-posts li a:hover {
+  color: #02577a;
+}
 
 /* Red */
 .theme-base-08 .sidebar {

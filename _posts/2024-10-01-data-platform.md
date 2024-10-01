@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Platform with Open Source Software
+title: Data Platform Using Open Source Software
 ---
 
 At Bolt, we faced the challenge of rebuilding our entire data platform from the ground up. We had an established data format and had accumulated several years' worth of data stored in that format. This left us with little choice but to construct a new, modern data platform while ensuring compatibility with the existing formats to maintain continuity.
