@@ -124,8 +124,11 @@ ol,
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  list-style-type: disclosure-closed;
   padding-left: 1rem;
+}
+
+.sidebar-nav ul {
+  list-style-type: disclosure-closed;
 }
 
 dt {
