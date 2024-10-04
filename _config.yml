@@ -3,8 +3,8 @@ title: Spangle
 logo: "/public/images/sina-sohangir.png"
 tagline: "Smart landing page"
 description: "Personal Blog"
-url: https://sinaso.github.io/
-baseurl: "/"
+url: https://sinaso.github.io
+baseurl: ""
 paginate: 5
 
 # About and contact
